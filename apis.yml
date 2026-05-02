@@ -1,7 +1,7 @@
 aid: mohawk-industries
 url: 
   https://raw.githubusercontent.com/api-evangelist/mohawk-industries/refs/heads/main/apis.yml
-modified: '2026-03-21'
+modified: '2026-04-28'
 apis: []
 common:
   - type: Website
