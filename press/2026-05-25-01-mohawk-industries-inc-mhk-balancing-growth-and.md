@@ -1,7 +1,9 @@
 ---
 title: 'Mohawk Industries, Inc. (MHK): Balancing Growth and ...'
 url: https://finance.yahoo.com/news/mohawk-industries-inc-mhk-balancing-050615339.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mohawk Industries" press release artificial intelligence'
 position: 1
 source: serpapi-google
